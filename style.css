@@ -1,0 +1,37 @@
+img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 300px;
+  width: 500px;
+  
+    
+}
+h1,h3{
+    text-align: center;
+    margin-top:0px;
+    width: 100%;
+    background-color: green;
+}
+
+
+.information{
+    
+   padding: 40px;
+background-color: aqua;
+}
+body{
+    width: 1300px;
+    
+}
+
+.bilal{
+    border-radius: 5px 5px;
+    height: 35px;
+    width: 300px;
+
+}
+
+
+
